@@ -1,0 +1,10 @@
+a=int(input("Enter the number1:"))
+b=int(input("Enter the number2:"))
+a=int(input("Enter the number3:"))
+c=int(input("Enter the number4:"))
+d=int(input("Enter the number5:"))
+e=int(input("Enter the number6:"))
+f=int(input("Enter the number7:"))
+g=int(input("Enter the number8:"))
+s1={a,b,c,d,e,f,g}
+print(s1)
